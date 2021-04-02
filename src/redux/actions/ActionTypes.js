@@ -1,0 +1,1 @@
+export const GET_MOVIES = 'MOVIE/GET_MOVIES'
